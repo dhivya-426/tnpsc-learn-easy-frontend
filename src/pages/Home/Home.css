@@ -1,0 +1,12 @@
+.root {
+  overflow-x: scroll;
+  display: flex;
+  scroll-snap-type: mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cardContainer {
+  scroll-snap-align: start;
+  flex: 0 0 auto;
+  padding: 2;
+}
