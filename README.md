@@ -14,7 +14,7 @@ What do you need to install the software and how to install it.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/dhivya-426/tnpsc-learn-easy-frontend
+   git clone https://github.com/dhivya-426/tnpsc-learn-easy-frontend.git
    ```
 
 2. Navigate into your project directory:
